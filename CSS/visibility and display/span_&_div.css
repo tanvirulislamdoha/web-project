@@ -1,0 +1,22 @@
+span{
+	height: 50px;
+	width: 75px;
+	background: #20B2AA;
+	display: inline-block;
+
+}
+
+div{
+	height: 80px;
+	width: 500px;
+	background: #6B8E23;
+	float: right;
+
+}
+
+p{
+	height: 100px;
+	width: 100px;
+	background: #7FFFD4;
+
+}

@@ -1,0 +1,29 @@
+/*
+Here all of three styles are corrct.we can use any of one .but i think last one is better.
+div{
+	width: 32%;
+	background-color: #00ffff;
+	height: 400px;
+
+	display: inline-block;
+	float: left;
+	overflow: scroll;
+}
+*/
+
+/*
+This is also correct css.
+div{
+	width: 32%;
+	background-color: #00ffff;
+	display: inline-block;
+}
+*/
+body{
+	display: table;
+}
+div{
+	width: 32%;
+	background-color: #00ffff;
+	display: table-cell;
+}

@@ -1,0 +1,14 @@
+h1{
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 150%;
+}
+header{
+	background-color: #C0C0C0;
+}
+aside{
+	display: none;
+}
+section{
+	background: #808080;
+}

@@ -1,0 +1,61 @@
+body{
+	
+	font-size: 150%
+	margin:4px;
+}
+header{
+	background: #20B2AA;
+	text-align: center;
+	padding: 15px;
+}
+header, footer{
+	background: #666666;
+	background: -moz-linear-gradient(top, #666666 0%);
+	background: -webkit-linear-gradient(#666666 0%);
+	background:-o-linear-gradient(#666666 0%, #66cccc);
+	background: linear-gradient(#666666 0%, #66cccc)
+}
+h1{
+	text-transform: uppercase;
+	font-size: 250%;
+}
+.half{
+	width: 45%; /*because there are 3 sections. */
+	display: inline-block;
+	margin: 3px;
+	float: left;
+	
+}
+
+.whole{
+	clear: both;
+}
+nav{
+	font-size: 150%;
+	font-variant: small-caps;
+	font-family:Arial, "Time New Roman", serif;
+}
+nav a{
+	width: 10%;
+	display: inline-block;
+	background: #6699cc;
+}
+h2{
+	background: #008B8B;
+	color: #FFC0CB;
+}
+/*
+li{
+	font-style: bold;
+}
+*/
+details{
+	font-style: italic;
+}
+summary{
+	font-style: normal;
+}
+
+img{
+	width: 100px;
+}
